@@ -18,3 +18,12 @@
     float: left;  
 }
 
+/****Header****/
+
+header {
+    height: 978px;
+    background: url('../img/background.jpg');
+    background-size: cover;
+    margin: 0 auto;
+}
+
