@@ -46,6 +46,62 @@ header h1 {
     text-align: center;
 }
 
+/***Contact***/
+
+#contact {
+    margin: 0;
+    background-color: #3366ff;
+}
+
+#contact h3 {
+    text-align: center;
+    color: #3366ff;
+    margin: 0 ;
+    padding-top: 20px;
+    font-family: 'Balthazar', serif;
+    font-size: 30px;
+}
+
+#contact ul li {
+     display: inline-block;
+}
+#contact ul img {
+    font-size: 32px;
+    padding-left: 105px;
+    padding-top: 15px;
+}
+
+#contact h2 {
+    font-size: 46px;
+    text-align: center;
+    color: #cc33ff;
+    margin: 0 ;
+    padding-top: 35px;
+    font-family: 'Balthazar', serif;
+}
+
+#contact .third-width {
+    color: white;
+}
+
+#hire-invite {
+    padding-left: 190px;
+}
+
+#email-header {
+    text-decoration: none;
+    padding-left: 185px;
+}
+
+#socialmedia-header {
+    padding-left: 15px;
+}
+
+#invitation {
+    padding-left: 90px
+}
+
+
 /***Footer***/
 
 footer h5 {
