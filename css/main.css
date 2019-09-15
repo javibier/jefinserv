@@ -27,11 +27,16 @@ header {
     margin: 0 auto;
 }
 
+header h1 {
+    margin-left: 20px;
+    color: #cc33ff
+}
+
 /***Footer***/
 
 footer a {
     text-decoration: none;
-    color: #fa0075;
+    color: #cc33ff;
 }
 
 
