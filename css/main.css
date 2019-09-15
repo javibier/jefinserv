@@ -1,0 +1,20 @@
+/***** GRID ******/
+
+.full-width {
+    width: 100%;
+    max-width: 1900px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 100%;
+    max-width: 950px;
+    float: left;
+}
+
+.third-width {
+    width: 100%;
+    max-width: 630px;
+    float: left;  
+}
+
