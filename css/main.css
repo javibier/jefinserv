@@ -32,7 +32,25 @@ header h1 {
     color: #cc33ff
 }
 
+/***About***/
+
+#about h2 {
+    text-align: center;
+}
+
+#about h3 {
+    text-align: center;
+}
+
+#about p {
+    text-align: center;
+}
+
 /***Footer***/
+
+footer h5 {
+    text-align: center;
+}
 
 footer a {
     text-decoration: none;
