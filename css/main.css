@@ -27,3 +27,11 @@ header {
     margin: 0 auto;
 }
 
+/***Footer***/
+
+footer a {
+    text-decoration: none;
+    color: #fa0075;
+}
+
+
