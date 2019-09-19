@@ -40,6 +40,7 @@ header h1 {
 
 #about h2 {
     text-align: center;
+    font-size: 36px;
 }
 
 #about h3 {
@@ -48,6 +49,7 @@ header h1 {
 
 #about p {
     text-align: center;
+    font-size: 25px;
 }
 
 /***Contact***/
