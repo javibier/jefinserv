@@ -70,12 +70,13 @@ header h1 {
 }
 
 #contact ul li {
-     display: inline-block;
+    display: inline-block;
+    width: 100%;
 }
 
 #contact ul img {
     font-size: 32px;
-    padding-left: 105px;
+    padding-left: 240px;
     padding-top: 15px;
 }
 
