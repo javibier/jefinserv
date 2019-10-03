@@ -21,15 +21,15 @@
 /****Header****/
 
 header {
-    height: 978px;
     background: url('../img/background.jpg');
     background-size: cover;
+    height: 978px;
     margin: 0 auto;
 }
 
 header h1 {
-    margin-left: 20px;
-    color: #cc33ff
+    color: #cc33ff;
+    margin-left: 20px;   
 }
 
 /***About***/
