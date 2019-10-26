@@ -19,12 +19,12 @@ header {
     background: url('../img/background4.jpg');
     background-size: cover;
     height: 978px;
-    margin: 0 auto;
+    font-size: 20px;
 }
 
 header h1 {
-    color: #cc33ff;
-    margin-left: 20px;   
+    color: #51402e;
+    margin: -15px 0 0 0;
 }
 
 /***About***/
