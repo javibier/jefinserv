@@ -28,6 +28,11 @@ header h1 {
     margin: -15px 0 0 0;
 }
 
+header p {
+     color: #cc33ff;
+     margin-top: 200px;
+}
+
 /***About***/
 
 #about {
