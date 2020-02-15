@@ -37,6 +37,7 @@ header h1 {
 #about h2 {
     font-size: 46px;
     text-align: center;
+    margin: 0 auto;
 }
 
 #about h3 {
