@@ -18,7 +18,8 @@
 header {
     background: url('../img/82.jpg');
     background-size: cover;
-    height: 978px;
+    width: auto;
+    height: 900px;
     font-size: 20px;
 }
 
