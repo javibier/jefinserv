@@ -31,7 +31,7 @@ header h1 {
 /***About***/
 
 #about {
-    height: 300px;
+    height: auto;
 }
 
 #about h2 {
