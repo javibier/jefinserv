@@ -13,13 +13,18 @@
   padding: 15px;
 }
 
+body {
+  font-size: 1em;
+}
+
 /****Header****/
 
 header {
     background: url('../img/82.jpg');
     background-size: cover;
-    width: auto;
-    height: 900px;
+    width: 100%;
+    height: auto;
+    min-height: 900px;
     font-size: 20px;
 }
 
