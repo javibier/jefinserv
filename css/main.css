@@ -31,6 +31,7 @@ header h1 {
 header p {
      color: #51402e;
      margin-top: 250px;
+     font-weight: bolder;
 }
 
 /***About***/
