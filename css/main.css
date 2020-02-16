@@ -16,11 +16,9 @@
 body {
   font-size: 16px;
 }
-
-html {
+html  {
   font-size: 16px;
 }
-
 
 /****Header****/
 
@@ -34,13 +32,16 @@ header {
 
 header h1 {
     color: #51402e;
-    margin: -15px 0 0 0; 
+    margin: -15px 0 0 0;
+    font-size: 2.75em;
 }
 
 header p {
      color: #51402e;
-     margin-top: 300px;
+     margin-top: 22%;
      font-weight: bolder;
+     font-size: 20px;
+
 }
 
 /***About***/
