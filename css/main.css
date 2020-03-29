@@ -63,8 +63,11 @@ header h1 {
 /***About***/
 
 #about {
+    background: white;
+    position: absolute;
+    top: 152%;
+    width: 100%;
     height: auto;
-    top: 190%;
 }
 
 #about h2 {
