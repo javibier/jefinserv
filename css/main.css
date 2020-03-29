@@ -134,6 +134,14 @@ header h1 {
     margin: 0 ;
 }
 
+#hire-invite {
+    padding-left: 190px;
+}
+
+#invitation {
+    padding-left: 90px
+}
+
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
