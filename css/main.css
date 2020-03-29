@@ -58,6 +58,7 @@ header h1 {
 #services p {
   margin: 1%;
   font-size: 2em;
+  text-align: center;
 }
 
 /***About***/
@@ -135,12 +136,9 @@ header h1 {
 }
 
 #hire-invite {
-    padding-left: 190px;
+    padding-left: 33%;
 }
 
-#invitation {
-    padding-left: 90px
-}
 
 /* For mobile phones: */
 [class*="col-"] {
