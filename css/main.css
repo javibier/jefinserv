@@ -39,7 +39,7 @@ header {
     position: absolute;
     top: 2%;
     width: 100%;
-    height: 100px;
+    height: auto;
 }
 
 header h1 {
@@ -52,12 +52,35 @@ header h1 {
     position: absolute;
     top: 52%;
     width: 100%;
-    height: 600px;
+    height: auto;
 }
 
 #services p {
   margin: 1%;
   font-size: 2em;
+}
+
+/***About***/
+
+#about {
+    height: auto;
+    top: 190%;
+}
+
+#about h2 {
+    font-size: 40px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#about h3 {
+    text-align: center;
+    font-size: 1.375em;
+}
+
+#about p {
+    font-size: 1em;
+    text-align: center;
 }
 
 /* For mobile phones: */
