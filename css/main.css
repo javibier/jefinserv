@@ -54,4 +54,8 @@ body, html {
   .col-12 {width: 100%;}
 }
 
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
 
