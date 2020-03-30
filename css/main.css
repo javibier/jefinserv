@@ -1,4 +1,4 @@
-/** {
+{
   box-sizing: border-box;
 }
 
@@ -12,7 +12,7 @@
   float: left;
   padding: 15px;
 }
-**/
+
 
 body, html {
     height: 100%;
@@ -66,7 +66,7 @@ header h1 {
 #about {
     background: white;
     position: absolute;
-    top: 152%;
+    top: 140%;
     width: 100%;
     height: auto;
 }
@@ -93,7 +93,7 @@ header h1 {
     background: url('../img/background2.jpg');
     background-size: cover;
     position: absolute;
-    top: 205%;
+    top: 200%;
     width: 100%;
     height: auto;
 }
@@ -134,11 +134,6 @@ header h1 {
     text-align: center;
     margin: 0 ;
 }
-
-#hire-invite {
-    padding-left: 33%;
-}
-
 
 /* For mobile phones: */
 [class*="col-"] {
