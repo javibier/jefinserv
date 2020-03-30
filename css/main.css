@@ -34,12 +34,13 @@ body, html {
     }
 
 header {
-    background: white;
-    opacity: .5;
+    background: rgba(255, 255, 255, .0);
     position: absolute;
     top: 2%;
     width: 97%;
     height: auto;
+    justify-content: : center;
+    display: flex;
 }
 
 header h1 {
@@ -50,7 +51,7 @@ header h1 {
     background: white;
     position: absolute;
     top: 52%;
-    width: 98%;
+    width: 98.35%;
     height: auto;
     margin: 0 auto;
 }
@@ -67,7 +68,7 @@ header h1 {
     background: white;
     position: absolute;
     top: 140%;
-    width: 98%;
+    width: 98.35%;
     height: auto;
 }
 
@@ -94,7 +95,7 @@ header h1 {
     background-size: cover;
     position: absolute;
     top: 200%;
-    width: 98%;
+    width: 98.35%;
     height: auto;
 }
 
