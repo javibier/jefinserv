@@ -30,12 +30,14 @@ body, html {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;   
+    transition: 0s linear;
+    transition-property: background-position;
     }
 
 header {
     background: rgba(255, 255, 255, .0);
-    position: absolute;
+    position: fixed;
     top: 2%;
     width: 97%;
     height: auto;
@@ -102,7 +104,7 @@ header h1 {
 #contact h3 {
     color: white;
     font-family: 'Balthazar', serif;
-    font-size: 30px;
+    font-size: 1.875em;
     margin: 0 ;
     padding-top: 20%;
     text-align: center;   
@@ -111,7 +113,7 @@ header h1 {
 #contact h4 {
     color: white;
     font-family: 'Balthazar', serif;
-    font-size: 30px;
+    font-size: 1.875em;
     margin: 0 ;
     padding-top: 10%;
     text-align: center;   
@@ -123,14 +125,14 @@ header h1 {
 }
 
 #contact ul img {
-    font-size: 32px;
+    font-size: 1.94em;
     padding-left: 240px;
     padding-top: 15px;
 }
 
 #contact h2 {
     color: white;
-    font-size: 46px;
+    font-size: 2.88em;
     font-family: 'Balthazar', serif;
     text-align: center;
     margin: 0 ;
