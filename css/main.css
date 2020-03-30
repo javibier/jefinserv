@@ -53,6 +53,7 @@ header h1 {
     top: 52%;
     width: 98%;
     height: auto;
+    margin: 0 auto;
 }
 
 #services p {
@@ -69,6 +70,7 @@ header h1 {
     top: 140%;
     width: 98%;
     height: auto;
+    margin: 0 auto;
 }
 
 #about h2 {
