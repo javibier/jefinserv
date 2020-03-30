@@ -38,12 +38,11 @@ header {
     opacity: .5;
     position: absolute;
     top: 2%;
-    width: 99.5%;
+    width: 98%;
     height: auto;
 }
 
 header h1 {
-  margin: 1%;
   font-size: 3em;
 }
 
@@ -70,11 +69,10 @@ header h1 {
     top: 140%;
     width: 98%;
     height: auto;
-    margin: 0 auto;
 }
 
 #about h2 {
-    font-size: 2em;
+    font-size: 1.90em;
     text-align: center;
     margin: 0 auto;
 }
@@ -85,7 +83,7 @@ header h1 {
 }
 
 #about p {
-    font-size: 1.30em;
+    font-size: 1.25em;
     text-align: center;
 }
 
