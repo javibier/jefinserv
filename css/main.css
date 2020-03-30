@@ -38,7 +38,7 @@ header {
     opacity: .5;
     position: absolute;
     top: 2%;
-    width: 98.5%;
+    width: 99%;
     height: auto;
 }
 
@@ -51,7 +51,7 @@ header h1 {
     background: white;
     position: absolute;
     top: 52%;
-    width: 98.5%;
+    width: 98%;
     height: auto;
 }
 
@@ -67,7 +67,7 @@ header h1 {
     background: white;
     position: absolute;
     top: 140%;
-    width: 98.5%;
+    width: 98%;
     height: auto;
 }
 
@@ -94,7 +94,7 @@ header h1 {
     background-size: cover;
     position: absolute;
     top: 200%;
-    width: 98.5%;
+    width: 98%;
     height: auto;
 }
 
@@ -118,7 +118,7 @@ header h1 {
 
 #contact ul li {
     display: inline-block;
-    width: 100%;
+    width: 98%;
 }
 
 #contact ul img {
