@@ -39,10 +39,8 @@ header {
     background: rgba(255, 255, 255, .0);
     position: fixed;
     top: 1%;
-    width: 100%;
     max-width: 1200px;
     height: auto;
-    justify-content: : center;
     display: flex;
 }
 
@@ -60,8 +58,7 @@ header h1 {
 }
 
 #services p {
-  margin: 1%;
-  font-size: 2em;
+  font-size: 1.75em;
   text-align: center;
 }
 
