@@ -15,7 +15,7 @@
 **/
 
 
-body, html, main, {
+body, html, {
     height: 100%;
     font-size: 16px;
     width: 100%;
@@ -54,11 +54,11 @@ header h1 {
 #services {
     background: white;
     position: absolute;
-    top: 52%;
+    top: 40%;
 }
 
 #services p {
-  font-size: 1.75em;
+  font-size: 1.45em;
   text-align: center;
 }
 
@@ -67,7 +67,7 @@ header h1 {
 #about {
     background: white;
     position: absolute;
-    top: 152%;
+    top: 122%;
     height: auto;
 }
 
