@@ -9,7 +9,7 @@
   display: table;
 }
 
-  float: left;
+.float: left;
   padding: 15px;
 }
 
@@ -19,14 +19,13 @@ body, html, main, section {
     height: 100%;
     font-size: 16px;
     width: 100%;
-    max-width: 1200px;
     margin: 0;
     padding: 0;
     border: 0;
     font: inherit;
     vertical-align: baseline;
   }
-  /**
+  
   .parallax {
   /* The image used */
     background-image: url('../img/82.jpg');
@@ -41,7 +40,8 @@ body, html, main, section {
     background-repeat: no-repeat;
     background-size: cover;
     }
-    **/
+
+
 header {
     background: rgba(255, 255, 255, .0);
     position: fixed;
