@@ -32,7 +32,6 @@ body, html, main, section {
 
   /* Full height */
     height: 100%;
-    max-width: 1200px;
 
   /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -46,7 +45,6 @@ header {
     background: rgba(255, 255, 255, .0);
     position: fixed;
     top: 1%;
-    max-width: 1200px;
     height: auto;
 }
 
@@ -58,8 +56,6 @@ header h1 {
     background: white;
     position: absolute;
     top: 52%;
-    width: 100%;
-    max-width: 1200px;
     height: auto;
 }
 
@@ -74,8 +70,6 @@ header h1 {
     background: white;
     position: absolute;
     top: 140%;
-    width: 100%;
-    max-width: 1200px;
     height: auto;
 }
 
@@ -101,8 +95,6 @@ header h1 {
     background-size: cover;
     position: absolute;
     top: 200%;
-    width: 100%;
-    max-width: 1200px;
     height: auto;
 }
 
