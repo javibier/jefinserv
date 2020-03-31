@@ -1,4 +1,4 @@
-
+/**
 {
   box-sizing: border-box;
 }
@@ -12,7 +12,7 @@
 .float: left;
   padding: 15px;
 }
-
+**/
 
 
 body, html, main, section {
@@ -22,8 +22,7 @@ body, html, main, section {
     margin: 0;
     padding: 0;
     border: 0;
-    font: inherit;
-    vertical-align: baseline;
+    font: inherit
   }
   
   .parallax {
@@ -49,14 +48,13 @@ header {
 }
 
 header h1 {
-  font-size: 3em;
+    font-size: 3em;
 }
 
 #services {
     background: white;
     position: absolute;
     top: 52%;
-    height: auto;
 }
 
 #services p {
@@ -69,7 +67,7 @@ header h1 {
 #about {
     background: white;
     position: absolute;
-    top: 140%;
+    top: 152%;
     height: auto;
 }
 
@@ -131,9 +129,7 @@ header h1 {
     padding-left: 4.5%;
 }
 
-footer {
-    max-width: 1200px;
-}
+
 
 /* For mobile phones: */
 [class*="col-"] {
@@ -155,9 +151,4 @@ footer {
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
 }
-
-@media only screen and (max-device-width: 1400px) {
-  .parallax {
-    background-attachment: scroll;
-  }
 
